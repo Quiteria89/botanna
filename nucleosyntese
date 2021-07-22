@@ -1,0 +1,212 @@
+[
+   {
+      "diasemana":"Segunda-feira",
+      "horarios":[
+         {
+            "horas":"Das 9h às 10h",
+            "celular":"11 99685-4553",
+            "link":"https://api.whatsapp.com/send?phone=5511996854553&amp;"
+         },
+         {
+            "horas":"Das 10h às 11h",
+            "celular":"11 99685-4553",
+            "link":"https://api.whatsapp.com/send?phone=5511996854553&amp;"
+         },
+         {
+            "horas":"Das 10h às 11h",
+            "celular":"11 98432-7793",
+            "link":"https://api.whatsapp.com/send?phone=5511984327793&amp;"
+         },
+         {
+            "horas":"Das 11h às 12h",
+            "celular":"11 98432-7793",
+            "link":"https://api.whatsapp.com/send?phone=5511984327793&amp;"
+         },
+         {
+            "horas":"Das 12h às 13h",
+            "celular":"11 98432-7793",
+            "link":"https://api.whatsapp.com/send?phone=5511984327793&amp;"
+         },
+         {
+            "horas":"Das 13h30 às 14h30",
+            "celular":"11 98226-2862",
+            "link":"https://api.whatsapp.com/send?phone=5511982262862&amp;"
+         },
+         {
+            "horas":"Das 17h às 18h",
+            "celular":"11 99947-4755",
+            "link":"https://api.whatsapp.com/send?phone=5511999474755&amp;"
+         },
+         {
+            "horas":"Das 18h às 19h",
+            "celular":"21 96525-0640",
+            "link":"https://api.whatsapp.com/send?phone=5521965250640&amp;"
+         },
+         {
+            "horas":"Das 18h às 19h",
+            "celular":"21 96568-2373",
+            "link":"https://api.whatsapp.com/send?phone=5521965682373&amp;"
+         },
+         {
+            "horas":"Das 19h às 20h",
+            "celular":"21 96525-0640",
+            "link":"https://api.whatsapp.com/send?phone=5521965250640&amp;"
+         },
+         {
+            "horas":"Das 19h às 20h",
+            "celular":"21 96568-2373",
+            "link":"https://api.whatsapp.com/send?phone=5521965682373&amp;"
+         }
+      ]
+   },
+   {
+      "diasemana":"Terça-feira",
+      "horarios":[
+         {
+            "horas":"Das 9h às 10h",
+            "celular":"11 99685-4553",
+            "link":"https://api.whatsapp.com/send?phone=5511996854553&amp;"
+         },
+         {
+            "horas":"Das 10h às 11h",
+            "celular":"11 99685-4553",
+            "link":"https://api.whatsapp.com/send?phone=5511996854553&amp;"
+         },
+         {
+            "horas":"Das 14h às 15h",
+            "celular":"11 98741-4224",
+            "link":"https://api.whatsapp.com/send?phone=5511987414224&amp;"
+         },
+         {
+            "horas":"Das 15h às 16h",
+            "celular":"11 98741-4224",
+            "link":"https://api.whatsapp.com/send?phone=5511987414224&amp;"
+         },
+         {
+            "horas":"Das 15h às 16h",
+            "celular":"11 96420-1100",
+            "link":"https://api.whatsapp.com/send?phone=5511964201100&amp;"
+         },
+         {
+            "horas":"Das 16h às 17h",
+            "celular":"11 98741-4224",
+            "link":"https://api.whatsapp.com/send?phone=5511987414224&amp;"
+         },
+         {
+            "horas":"Das 16h às 17h",
+            "celular":"11 96420-1100",
+            "link":"https://api.whatsapp.com/send?phone=5511964201100&amp;"
+         },
+         {
+            "horas":"Das 17h às 18h",
+            "celular":"11 95332-7416",
+            "link":"https://api.whatsapp.com/send?phone=5511953327416&amp;"
+         },
+         {
+            "horas":"Das 17h às 18h",
+            "celular":"11 99947-4755",
+            "link":"https://api.whatsapp.com/send?phone=5511999474755&amp;"
+         },
+         {
+            "horas":"Das 17h às 18h",
+            "celular":"11 96420-1100",
+            "link":"https://api.whatsapp.com/send?phone=5511964201100&amp;"
+         },
+         {
+            "horas":"Das 19h às 20h",
+            "celular":"11 97305-6924",
+            "link":"https://api.whatsapp.com/send?phone=5511973056924&amp;"
+         },
+         {
+            "horas":"Das 20h às 21h",
+            "celular":"1 437 777 4785",
+            "link":"https://api.whatsapp.com/send?phone=14377774785&amp;"
+         },
+         {
+            "horas":"Das 21h às 22h",
+            "celular":"1 437 777 4785",
+            "link":"https://api.whatsapp.com/send?phone=14377774785&amp;"
+         }
+      ]
+   },
+   {
+      "diasemana":"Quarta-feira",
+      "horarios":[
+         {
+            "horas":"Das 17h às 18h",
+            "celular":"11 99947-4755",
+            "link":"https://api.whatsapp.com/send?phone=5511999474755&amp;"
+         }
+      ]
+   },
+   {
+      "diasemana":"Quinta-feira",
+      "horarios":[
+         {
+            "horas":"Das 7h às 8h",
+            "celular":"11 95332-7416",
+            "link":"https://api.whatsapp.com/send?phone=5511953327416&amp;"
+         },
+         {
+            "horas":"Das 9h30 às 10h30",
+            "celular":"11 99439-2322",
+            "link":"https://api.whatsapp.com/send?phone=5511994392322&amp;"
+         }
+      ]
+   },
+   {
+      "diasemana":"Sexta-feira",
+      "horarios":[
+         {
+            "horas":"Das 9h às 10h",
+            "celular":"11 98696-7515",
+            "link":"https://api.whatsapp.com/send?phone=5511986967515&amp;"
+         },
+         {
+            "horas":"Das 10h às 11h",
+            "celular":"11 98696-7515",
+            "link":"https://api.whatsapp.com/send?phone=5511986967515&amp;"
+         },
+         {
+            "horas":"Das 11h às 12h",
+            "celular":"11 99544-4666",
+            "link":"https://api.whatsapp.com/send?phone=5511995444666&amp;"
+         },
+         {
+            "horas":"Das 15h às 16h",
+            "celular":"11 99544-4666",
+            "link":"https://api.whatsapp.com/send?phone=5511995444666&amp;"
+         },
+         {
+            "horas":"Das 18h às 19h",
+            "celular":"21 96525-0640",
+            "link":"https://api.whatsapp.com/send?phone=5521965250640&amp;"
+         },
+         {
+            "horas":"Das 19h às 20h",
+            "celular":"21 96525-0640",
+            "link":"https://api.whatsapp.com/send?phone=5521965250640&amp;"
+         }
+      ]
+   },
+   {
+      "diasemana":"Domingo",
+      "horarios":[
+         {
+            "horas":"Das 18h às 19h",
+            "celular":"11 99786-7852",
+            "link":"https://api.whatsapp.com/send?phone=5511997867852&amp;"
+         },
+         {
+            "horas":"Das 18h às 19h",
+            "celular":"11 99598-5820",
+            "link":"https://api.whatsapp.com/send?phone=5511995985820&amp;"
+         },
+         {
+            "horas":"Das 19h às 20h",
+            "celular":"11 99786-7852",
+            "link":"https://api.whatsapp.com/send?phone=5511997867852&amp;"
+         }
+      ]
+   }
+]
